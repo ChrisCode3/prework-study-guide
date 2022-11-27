@@ -1,6 +1,3 @@
-# prework-study-guide
-Boot Camp Preword Study Guide For Students
-
 # Prework Study Guide
 
 ## A brief overview of HTML, CSS and JavaScript on how they are used to create a modern interactive web application
@@ -14,8 +11,6 @@ Following that we learnt on to use the command line  and how to use from a very 
 
 After that we used HTML to structure the web ,CSS to add style and visual interest and finally JavaScript to add logic and interactivity to our website
 
-
--
 
 ## Installation
 
